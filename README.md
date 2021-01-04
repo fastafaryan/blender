@@ -2,7 +2,7 @@
 <table>
   <tr>
     <td width="33%">
-      <img src="https://github.com/fastafaryan/blender/blob/main/Character/Character.gif" style="display:block;" width="100%"/>
+      <img src="https://github.com/fastafaryan/blender/blob/main/Character/Renders/Character.gif" style="display:block;" width="100%"/>
     </td>
     <td width="33%">
       <img src="https://github.com/fastafaryan/blender/blob/main/Giraffe/Giraffe.png" style="display:block;" width="100%"/>
